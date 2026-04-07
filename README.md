@@ -1,4 +1,4 @@
-# HW2 - Encrypted File Transfer
+# Encrypted File Transfer
 
 This folder contains a simple encrypted file transfer system using:
 - **RSA (2048-bit)** for secure AES key exchange
